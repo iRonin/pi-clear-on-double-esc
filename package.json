@@ -4,7 +4,7 @@
   "description": "Double-Esc to clear the pi editor input",
   "type": "module",
   "license": "MIT",
-  "author": "iRonin",
+  "author": "CK @ iRonin.IT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iRonin/pi-clear-on-double-esc.git"
