@@ -1,0 +1,30 @@
+{
+  "name": "pi-clear-on-double-esc",
+  "version": "0.1.0",
+  "description": "Double-Esc to clear the pi editor input",
+  "type": "module",
+  "license": "MIT",
+  "author": "iRonin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iRonin/pi-clear-on-double-esc.git"
+  },
+  "keywords": [
+    "pi-package",
+    "pi",
+    "pi-coding-agent"
+  ],
+  "pi": {
+    "extensions": [
+      "./index.ts"
+    ]
+  },
+  "files": [
+    "index.ts",
+    "README.md"
+  ],
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*",
+    "@mariozechner/pi-tui": "*"
+  }
+}
